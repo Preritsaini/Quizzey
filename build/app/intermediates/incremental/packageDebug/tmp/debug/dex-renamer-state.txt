@@ -1,0 +1,4 @@
+#Sat Feb 10 20:39:35 IST 2024
+base.0=/home/prerit/AndroidStudioProjects/quiz_app_project/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
